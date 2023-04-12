@@ -1,3 +1,1 @@
-print('helloooooooooooooooooo')
-data = 'string hello'
-print('annyeongg')
+print('helloooo2')
