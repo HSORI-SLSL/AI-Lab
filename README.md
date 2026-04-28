@@ -52,4 +52,4 @@ GitHub 커밋 기록에는 반영되지 않았습니다.
 - Python (pandas, transformers, torch)
 - HuggingFace 모델 (KoBERT, multilingual LLaMA 등)
 - Flask (백엔드 API 연동)
-- GitHub / Google Drive / 노션 (버전 관리 및 협업)
+- GitHub / Google Drive / 노션 (버전 관리 및 협업)  
